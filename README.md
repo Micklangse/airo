@@ -1,1 +1,1 @@
-the airo.sh is broken do not use 
+the airodump.sh is broken do not use 
